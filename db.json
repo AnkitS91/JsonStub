@@ -1,10 +1,12 @@
-"demo": {[
-  {
-    "id": 1,
-    "text": "ENSTR GRMA"
-  },
-  {
-    "id": 2,
-    "text": "Test Data"
-  }
-]}
+{ 
+   "demo":[ 
+      { 
+         "id":1,
+         "text":"ENSTR GRMA"
+      },
+      { 
+         "id":2,
+         "text":"Test Data"
+      }
+   ]
+}
