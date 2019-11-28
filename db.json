@@ -1,6 +1,10 @@
-{
-  "profile": {
-    "greeting": "Welcoe to my first hybrid app",
-    "name": "Ankit"
+[
+  {
+    "id": 1,
+    "text": "ENSTR GRMA"
+  },
+  {
+    "id": 2,
+    "text": "Test Data"
   }
-}
+]
