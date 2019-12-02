@@ -1,12 +1,10 @@
 { 
-   "demo":[ 
-      { 
-         "id":1,
-         "text":"ENSTR GRMA"
-      },
-      { 
-         "id":2,
-         "text":"Test Data"
-      }
-   ]
+   "demo":[
+{
+"pipeline": "ACAD",
+"pzZone": "SOUTH LA",
+"meter":"NAUTPLT",
+
+}
+]
 }
