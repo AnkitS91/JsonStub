@@ -3,8 +3,7 @@
 {
 "pipeline": "ACAD",
 "pzZone": "SOUTH LA",
-"meter":"NAUTPLT",
-
+"meter":"NAUTPLT"
 }
 ]
 }
