@@ -1,8 +1,8 @@
 { 
    "demo": [
 {
-		"aggregateId": "-1",
-		"id": "123",
+		"aggregateId": "0",
+		"id": "1",
 		"locationName": "Eureka Hunter",
 		"locationType": "Meter",
 		"modifyDate": "2020-01-10",
@@ -11,8 +11,8 @@
 		"pzZone": null
 	},
 	{
-		"aggregateId": "123",
-		"id": "1234",
+		"aggregateId": "1",
+		"id": "2",
 		"locationName": "Wash 10 - Vector",
 		"locationType": "Interconnect",
 		"modifyDate": "2020-01-10",
@@ -21,8 +21,8 @@
 		"pzZone": null
 	},
 	{
-		"aggregateId": "123",
-		"id": "12345",
+		"aggregateId": "1",
+		"id": "3",
 		"locationName": "Wash 10 Storage",
 		"locationType": "Meter",
 		"modifyDate": "2020-01-10",
@@ -31,8 +31,8 @@
 		"pzZone": null
 	},
 	{
-		"aggregateId": "1234",
-		"id": "1848",
+		"aggregateId": "2",
+		"id": "4",
 		"locationName": "Wash 10 - DTE",
 		"locationType": "Interconnect",
 		"modifyDate": "2020-01-10",
