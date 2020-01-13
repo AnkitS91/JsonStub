@@ -1,11 +1,44 @@
 { 
    "demo": [
 {
-"id": 1186,
- "cparty": "BARCLAY UK",
-"pipeline": "ACAD",
-"pzZone": "South LA",
-"meter":"NAUTPLT"
-}
+		"aggregateId": "-1",
+		"id": "123",
+		"locationName": "Eureka Hunter",
+		"locationType": "Meter",
+		"modifyDate": "2020-01-10",
+		"modifyUser": "NUCDBA",
+		"pipeline": "REX",
+		"pzZone": null
+	},
+	{
+		"aggregateId": "123",
+		"id": 1234,
+		"locationName": "Wash 10 - Vector",
+		"locationType": "Interconnect",
+		"modifyDate": "2020-01-10",
+		"modifyUser": "NUCDBA",
+		"pipeline": null,
+		"pzZone": null
+	},
+	{
+		"aggregateId": "123",
+		"id": 12345,
+		"locationName": "Wash 10 Storage",
+		"locationType": "Meter",
+		"modifyDate": "2020-01-10",
+		"modifyUser": "NUCDBA",
+		"pipeline": "Wash 10",
+		"pzZone": null
+	},
+	{
+		"aggregateId": "1234",
+		"id": 1848,
+		"locationName": "Wash 10 - DTE",
+		"locationType": "Interconnect",
+		"modifyDate": "2020-01-10",
+		"modifyUser": "NUCDBA",
+		"pipeline": null,
+		"pzZone": null
+	}
 ]
 }
