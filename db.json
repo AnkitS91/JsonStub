@@ -1,7 +1,7 @@
 { 
    "demo": [
 {
-		"aggregateId": "0",
+		"aggregateId": "-1",
 		"id": 1,
 		"locationName": "Eureka Hunter",
 		"locationType": "Meter",
